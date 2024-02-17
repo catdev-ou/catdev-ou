@@ -56,6 +56,4 @@ features:
       enable: false
       label: ""
       link: "#"
-
-
 ---
