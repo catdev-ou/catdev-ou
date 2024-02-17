@@ -57,7 +57,7 @@ show_categories = true
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Cybersecurity", "catdev", "Penetration testing"]
-description = "catdev Penetration tewsting Services"
+description = "catdev penetration testing services"
 author = "catdev ou"
 image = "images/og-image.png"
 
