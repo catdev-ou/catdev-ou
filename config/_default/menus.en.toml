@@ -1,0 +1,54 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About"
+url = "about/"
+weight = 3
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 4
+
+[[main]]
+weight = 5
+name = "Blog"
+url = "blog/"
+
+[[main]]
+weight = 2
+name = "Services"
+hasChildren = true
+
+[[main]]
+parent = "Services"
+name = "Elements"
+url = "elements/"
+
+[[main]]
+parent = "Services"
+name = "404 Page"
+url = "404/"
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Imprint"
+url = "imprint/"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3
