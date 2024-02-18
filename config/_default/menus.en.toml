@@ -21,22 +21,6 @@ weight = 5
 name = "Blog"
 url = "blog/"
 
-[[main]]
-weight = 2
-name = "Services"
-hasChildren = true
-
-[[main]]
-parent = "Services"
-name = "Elements"
-url = "elements/"
-
-[[main]]
-parent = "Services"
-name = "404 Page"
-url = "404/"
-
-
 # footer menu
 [[footer]]
 name = "About"
