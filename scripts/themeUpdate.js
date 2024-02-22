@@ -1,7 +1,7 @@
 const { exec } = require("child_process");
 
 const repositoryUrl = "https://github.com/zeon-studio/hugoplate";
-const localDirectory = "./themes/hugoplate";
+const localDirectory = "./themes/catdev";
 const foldersToFetch = ["assets", "layouts"];
 const foldersToSkip = ["exampleSite"];
 
