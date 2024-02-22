@@ -213,7 +213,7 @@ We proceed by opening the relevant Visual Studio Solution on our development VM.
 While we aim to replicate the implementation in its entirety, it's crucial to maintain a specific directive to ensure the correct loading of the DLL. The directive in question is a compiler command that ensures our custom DLL properly references the original `DWriteCreateFactory` function from the genuine `DWrite.dll` located in the system directory:
 
 ```cpp
-`#pragma comment(linker,"/export:DWriteCreateFactory=C:\\Windows\\System32\\DWrite.DWriteCreateFactory,@1")`
+#pragma comment(linker,"/export:DWriteCreateFactory=C:\\Windows\\System32\\DWrite.DWriteCreateFactory,@1")
 ```
 
 In addition to incorporating this directive, it's necessary to define variables for the IP address, port, and resource location. These adjustments are essential for the successful execution and integration of our custom DLL, ensuring it operates as intended without drawing undue attention or causing disruptions to the application or system it integrates with.
