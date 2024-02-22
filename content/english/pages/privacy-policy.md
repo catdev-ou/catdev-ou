@@ -3,7 +3,7 @@ title: "Privacy statement"
 # meta title
 meta_title: ""
 # meta description
-description: "This is meta description"
+description: "This is our Privacy statement"
 # save as draft
 draft: false
 ---

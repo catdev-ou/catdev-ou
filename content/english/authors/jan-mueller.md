@@ -2,7 +2,7 @@
 title: Jan Mueller
 email: jan@catdev.io
 image: "/images/jan.png"
-description: this is meta description
+description: Jans Author Page
 social:
   - name: github
     icon: fa-brands fa-github
