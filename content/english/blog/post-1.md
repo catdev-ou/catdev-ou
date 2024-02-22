@@ -1,7 +1,7 @@
 ---
 title: "Breaching Fort Knox - Deploying a Command and Control Agent on a Fully Secured Windows System with Defender and EDR Activated"
 meta_title: ""
-description: "this is meta description"
+description: "Deploying a Command and Control Agent on a Fully Secured Windows System with Defender and EDR Activated"
 date: 2022-02-22T05:00:00Z
 image: "/images/post-1-image.webp"
 categories: ["Hacking", "Tutorial"]
