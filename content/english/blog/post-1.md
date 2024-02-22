@@ -20,6 +20,8 @@ Disclaimer: The hacking techniques described and discussed in this article are i
 
 It's important to note that this piece does not delve into the nuances of operational security measures, which warrant a separate discussion altogether.
 
+This article draws its inspiration from the significant contributions of [@nickswick](https://medium.com/@nickswink7/red-teaming-tactics-unlocking-the-power-of-custom-staged-payloads-w-metasploit-d3db71567572) and [@sam.rothlisberger](https://medium.com/@sam.rothlisberger/havoc-c2-with-av-edr-bypass-methods-in-2024-part-1-733d423fc67b), who undertook the majority of the in-depth work involved.
+
 ## Environment
 
 In setting up a sophisticated cybersecurity testing environment, this article expects the setup of a controlled scenario involving two Windows virtual machines (VMs) and an Arch Linux system. This setup is designed to emulate a real-world cyberattack and defense mechanism, providing a comprehensive platform for educational and research purposes.
