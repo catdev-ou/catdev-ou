@@ -27,10 +27,10 @@ name = "About"
 url = "about/"
 weight = 1
 
-[[footer]]
-name = "Imprint"
-url = "imprint/"
-weight = 2
+# [[footer]]
+# name = "Imprint"
+# url = "imprint/"
+# weight = 2
 
 [[footer]]
 name = "Privacy Policy"
