@@ -11,15 +11,12 @@ draft: false
 
 __catdev ou__
 
-Sepapaja tn 6  
-15551 Tallinn  
-Estonia
+7901 4TH ST N STE 300
+ST PETERSBURG FL 33702 
+UNITED STATES OF AMERICA
 
 Represented by: Jan Mueller
 
 Phone: +1 321 3607017  
 Email: info@catdev.io  
 Web: https://catdev.io  
-
-Vat ID: EE102145575  
-Commercial Register 14676712
