@@ -11,11 +11,9 @@ draft: false
 
 __catdev llc__
 
-7901 4TH ST N STE 300
-
-ST PETERSBURG FL 33702 
-
-UNITED STATES OF AMERICA
+7901 4th ST N Ste 300  
+St. Petersburg Florida 33702   
+United States of America
 
 Represented by: Jan Mueller
 
