@@ -51,10 +51,10 @@ We herewith advise you that the transmission of data via the Internet (i.e. thro
 
 The data processing controller on this website is:
 
-catdev OU  
-Sepapaja tn 6 
-15551 Tallinn  
-Estonia   
+catdev llc   
+7901 4th ST N Ste 300  
+St. Petersburg Florida 33702  
+United States of America    
 Email: info[at]catdev[dot]io  
 
 
